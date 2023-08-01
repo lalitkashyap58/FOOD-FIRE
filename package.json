@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chetannada/Namaste-React.git"
+    "url": "/"
   },
   "author": "Chetan Nada",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chetannada/Namaste-React/issues"
+    "url": "/"
   },
-  "homepage": "https://github.com/chetannada/Namaste-React#readme",
+  "homepage": "/",
   "devDependencies": {
     "parcel": "^2.8.2",
     "process": "^0.11.10"
