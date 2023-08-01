@@ -1,7 +1,7 @@
 {
   "name": "namaste-react",
   "version": "1.0.0",
-  "description": "This is a live Course",
+  "description": "This is a react project",
   "scripts": {
     "start": "parcel public/index.html",
     "build": "parcel build public/index.html",
@@ -11,10 +11,10 @@
     "type": "git",
     "url": "/"
   },
-  "author": "Chetan Nada",
+  "author": "lalit kashyap 58",
   "license": "ISC",
   "bugs": {
-    "url": "/"
+    "url": "https://github.com/lalitkashyap58"
   },
   "homepage": "/",
   "devDependencies": {
